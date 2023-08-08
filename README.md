@@ -14,9 +14,13 @@ The challenge is split into two parts:
 1. Applying SQLalchemy
 This challenge focus on utilising sqlalchemy in order to run the sql file through python (the code is running the hawaii.sqlite). The script filters the sqlite based on date and displaying the results with
 line and histogram.
+
 Below are the results from running code
+
+
 ![image](https://github.com/Nisloen/Assignment-10-SQLaclchemy_flask/assets/134130254/4964b1f4-16b4-4114-ad86-849bf9bcda4e)
 ![image](https://github.com/Nisloen/Assignment-10-SQLaclchemy_flask/assets/134130254/45b6df3a-73fa-49c2-ace7-89d60917f921)
+
 
 3. Using vscode flask
 This challenge run flask which shows the results in a URL , which is running in Google chrome and edited through vscode, uses flask which uses sqlalchemy to read the sqlite and apply the data through app.route
